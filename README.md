@@ -5,11 +5,11 @@ In 2006, Hans Rosling delivered a groundbreaking TED Talk titled 'The Best Stats
 This project analyzes data from 264 countries across 7 regions spanning the years 1960 to 2016. The dataset includes key indicators such as life expectancy at birth, fertility rate, and country population. Leveraging Python libraries including NumPy, Pandas, and Plotly, the goal is to create compelling animated visualizations that offer insights into global trends in health, demographics, and development.
 
 <h3>Dataset Information</h3>
-Life Expectancy at Birth: The average number of years a newborn would live if the patterns of mortality at the time of birth remain the same throughout their life.
+<h4>Life Expectancy at Birth:</h4> The average number of years a newborn would live if the patterns of mortality at the time of birth remain the same throughout their life.
 
-Fertility Rate: The average number of children a woman would give birth to during her childbearing years.
+<h4>Fertility Rate:</h4> The average number of children a woman would give birth to during her childbearing years.
 
-Country Population: The total number of residents regardless of legal status or citizenship.
+<h4>Country Population:</h4> The total number of residents regardless of legal status or citizenship.
 
 <h3>Project Workflow</h3>
 <h4>Data Exploration:</h4>
